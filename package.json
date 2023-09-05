@@ -29,7 +29,7 @@
           "keystone": "1.2.0",
           "handlebars": "4.7.6",
           "xterm": "1.2.0",
-          "jquery": "1.2.0",
+          "jquery": "3.5.0",
           "mongoose": "5.10.0",
           "nes": "1.2.0",
           "serve": "11.3.2"
@@ -52,7 +52,7 @@
           "keystone": "1.2.0",
           "handlebars": "4.7.6",
           "xterm": "1.2.0",
-          "jquery": "1.2.0",
+          "jquery": "3.5.0",
           "mongoose": "5.10.0",
           "nes": "1.2.0",
           "serve": "11.3.2"
